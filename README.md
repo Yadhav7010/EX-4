@@ -63,6 +63,14 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
 
+
+
+
+
+
+
+
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12bebf5b-2a09-4660-a51c-ebd22081161a" />
 
 **Measurement of power division** (Tabulation)
