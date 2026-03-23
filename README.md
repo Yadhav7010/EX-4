@@ -66,6 +66,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 
 
+<img width="356" height="263" alt="image" src="https://github.com/user-attachments/assets/0577faef-ed81-489a-925b-587f5e88d137" />
 
 
 
